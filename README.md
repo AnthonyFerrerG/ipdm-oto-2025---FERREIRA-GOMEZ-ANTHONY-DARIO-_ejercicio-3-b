@@ -1,1 +1,1 @@
-# ipdm-oto-2025---FERREIRA-GOMEZ-ANTHONY-DARIO-_ejercicio-3-b
+La aplicación **Task Manager** permite a los usuarios gestionar sus tareas diarias. Esta pantalla se muestra cuando los usuarios completan todas sus tareas en un día determinado. Muestra un mensaje de éxito junto con una imagen relacionada.
